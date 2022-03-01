@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "尝试封装的一些底层代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReMirror0815/utils.git"
+  },
+  "author": "ReMirror",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReMirror0815/utils/issues"
+  },
+  "homepage": "https://github.com/ReMirror0815/utils#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "eventemitter3": "^4.0.7"
+  }
+}
