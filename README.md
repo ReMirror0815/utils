@@ -17,3 +17,7 @@
 ### effect
 
 vue3新特性 effect/ref简易封装
+
+### call
+
+实现call、bind、apply、new
